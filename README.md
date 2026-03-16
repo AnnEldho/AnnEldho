@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Hi 👋 I'm Ann Mary Eldho
 
@@ -49,7 +49,7 @@ An online ration delivery platform that allows users to purchase ration items ba
 
 ## 📫 Connect with Me
 
-📧 Email: your-email@example.com  
+📧 Email: eldhoannmary@gmail.com  
 💻 GitHub: https://github.com/AnnEldho  
 
 ---
