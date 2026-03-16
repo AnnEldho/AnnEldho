@@ -1,16 +1,57 @@
 ## Hi there 👋
 
-<!--
-**AnnEldho/AnnEldho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Ann Mary Eldho
 
-Here are some ideas to get you started:
+🎓 MCA Student at Mar Athanasius College of Engineering, Kothamangalam (2025 – Present)  
+🎓 BCA Graduate from Nirmala College, Muvattupuzha  
+💻 Passionate about Web Development and Software Development  
+📍 Muvattupuzha, Ernakulam, Kerala  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+- Java
+- C++
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+---
+
+## 🚀 Projects
+
+### CareRation
+An online ration delivery platform that allows users to purchase ration items based on their ration card category (APL/BPL) with delivery options.
+
+**Technologies Used**
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnEldho&show_icons=true)
+
+---
+
+## 🌐 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnEldho&layout=compact)
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: your-email@example.com  
+💻 GitHub: https://github.com/AnnEldho  
+
+---
+
+⭐ Always interested in learning new technologies and building useful projects.
