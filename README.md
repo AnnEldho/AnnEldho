@@ -1,6 +1,4 @@
-
-
-# Hi 👋 I'm Ann Mary Eldho
+ # I'm Ann Mary Eldho
 
 🎓 MCA Student at Mar Athanasius College of Engineering, Kothamangalam (2025 – Present)  
 🎓 BCA Graduate from Nirmala College, Muvattupuzha  
@@ -35,17 +33,36 @@ An online ration delivery platform that allows users to purchase ration items ba
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnEldho&show_icons=true)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnnEldho&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnEldho&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
 
 ---
 
-## 🌐 Top Languages
+## 🔥 GitHub Contribution Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnEldho&layout=compact)
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=AnnEldho&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnEldho&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 
 ## 📫 Connect with Me
 
